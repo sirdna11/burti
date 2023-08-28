@@ -57,7 +57,7 @@ const data ={
         {
           "code": "2001", 
           "description": "Melna lodīšu pildspalva",
-          "varieties": []
+          "varieties": ["COLOR"]
         }
       ]
 }
